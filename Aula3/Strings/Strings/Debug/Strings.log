@@ -1,18 +1,14 @@
-﻿Build started 02/10/2014 17:54:15.
-     1>Project "C:\Users\jbgal_000\Dropbox\ENGENHARIA\2SM1\SO\so_1415\Aula3\Strings\Strings\Strings.vcxproj" on node 2 (Build target(s)).
+﻿Build started 02/10/2014 18:06:09.
+     1>Project "C:\Users\jbgal_000\Dropbox\ENGENHARIA\2SM1\SO\so_1415\Aula3\Strings\Strings\Strings.vcxproj" on node 2 (ClCompile target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Strings.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Strings.cpp
          Strings.cpp
-     1>c:\users\jbgal_000\dropbox\engenharia\2sm1\so\so_1415\aula3\strings\strings\strings.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>c:\users\jbgal_000\dropbox\engenharia\2sm1\so\so_1415\aula3\strings\strings\strings.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jbgal_000\Dropbox\ENGENHARIA\2SM1\SO\so_1415\Aula3\Strings\Debug\Strings.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\jbgal_000\Dropbox\ENGENHARIA\2SM1\SO\so_1415\Aula3\Strings\Debug\Strings.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jbgal_000\Dropbox\ENGENHARIA\2SM1\SO\so_1415\Aula3\Strings\Debug\Strings.lib" /MACHINE:X86 Debug\stdafx.obj
-         Debug\Strings.obj
-         Strings.vcxproj -> C:\Users\jbgal_000\Dropbox\ENGENHARIA\2SM1\SO\so_1415\Aula3\Strings\Debug\Strings.exe
-     1>Done Building Project "C:\Users\jbgal_000\Dropbox\ENGENHARIA\2SM1\SO\so_1415\Aula3\Strings\Strings\Strings.vcxproj" (Build target(s)).
+     1>c:\users\jbgal_000\dropbox\engenharia\2sm1\so\so_1415\aula3\strings\strings\strings.cpp(21): warning C4005: 'MAX_PAL' : macro redefinition
+                 c:\users\jbgal_000\dropbox\engenharia\2sm1\so\so_1415\aula3\strings\strings\strings.cpp(11) : see previous definition of 'MAX_PAL'
+     1>c:\users\jbgal_000\dropbox\engenharia\2sm1\so\so_1415\aula3\strings\strings\strings.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>Done Building Project "C:\Users\jbgal_000\Dropbox\ENGENHARIA\2SM1\SO\so_1415\Aula3\Strings\Strings\Strings.vcxproj" (ClCompile target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.84
+Time Elapsed 00:00:01.06

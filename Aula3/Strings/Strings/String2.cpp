@@ -1,16 +1,3 @@
-// Strings.cpp : Defines the entry point for the console application.
-//
-
-#include "stdafx.h"
-
-#include <string.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <locale.h>
-
-#define MAX_PAL 100
-
-
 #include "stdafx.h"      /*ficheiro com definições do Windows*/
 
 #include <stdio.h>
@@ -20,7 +7,7 @@
 
 #define MAX_PAL 20
 
-int main(){
+int main2(){
 	char palavra[MAX_PAL];
 
 	setlocale(LC_ALL, "Portuguese");

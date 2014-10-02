@@ -21,13 +21,20 @@
 #define MAX_PAL 20
 
 int main(){
-	char palavra[MAX_PAL];
+	char palavra1[MAX_PAL];
+	char palavra2[MAX_PAL];
 
 	setlocale(LC_ALL, "Portuguese");
 
 	printf("Introduza uma palavra:\n");
-	scanf("%s", palavra);
-	printf("%s\n", palavra);
+	scanf("%s", palavra1);
+	printf("Introduza outra palavra:\n");
+	scanf("%s", palavra2);
+
+	if (strcmp(palavra1, palavra2) == 0)
+		printf("São iguais!\n");
+	else
+		printf("São diferentes!\n");
 
 	system("pause");
 

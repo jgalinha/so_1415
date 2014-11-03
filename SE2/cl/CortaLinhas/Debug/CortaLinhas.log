@@ -1,0 +1,15 @@
+﻿Build started 03/11/2014 15:53:31.
+     1>Project "C:\Users\jbgal_000\Dropbox\ENGENHARIA\2SM1\SO\so_1415\SE2\cl\CortaLinhas\CortaLinhas.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\CortaLinhas.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CortaLinhas.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CortaLinhas.cpp
+         CortaLinhas.cpp
+     1>c:\users\jbgal_000\dropbox\engenharia\2sm1\so\so_1415\se2\cl\cortalinhas\cortalinhas.cpp(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\jbgal_000\dropbox\engenharia\2sm1\so\so_1415\se2\cl\cortalinhas\cortalinhas.cpp(26): error C4716: 'NumeroLinhaExisteArgv' : must return a value
+     1>Done Building Project "C:\Users\jbgal_000\Dropbox\ENGENHARIA\2SM1\SO\so_1415\SE2\cl\CortaLinhas\CortaLinhas.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.57

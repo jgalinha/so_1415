@@ -5,18 +5,22 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
+#include <string.h>
 #define MAX_PAL 20
 
-int main(int arg, char* argv[]){
+int main(int argc, char* argv[]){
 	char ficheiro[MAX_PAL];
 	char ext[4];
 	int i = 0;
 	int x = 0;
 	bool control = false;
 
-	setlocale(LC_ALL, "Portuguese"); 
-	printf("Introduza uma palavra:\n");
-	scanf("%s", ficheiro);
+	setlocale(LC_ALL, "Portuguese");
+
+	if (argc != 2)
+		return -1;
+
+	strcpy(ficheiro, argv[1]);
 
 	while (ficheiro[i] != '\0')
 	{
@@ -31,7 +35,6 @@ int main(int arg, char* argv[]){
 		i++;
 	}
 	printf("\n");
-	system("pause");
 	return 0;
 
 	/////////////////////////////

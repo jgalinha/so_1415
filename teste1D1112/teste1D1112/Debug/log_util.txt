@@ -1,0 +1,352 @@
+TIME Time when the event occurred
+OUTPUT Text output caused by the event
+EVENT The event
+TYPE Type of the element or operation connected to the event
+ELEMENT Screen element where the event occurred
+CENTER Screen coordinates of the element center where the event occurred
+PAGE Communication board where the event occurred
+CONTEXT Message content before de event
+$$$ End Header
+
+20:42:28.828 "" WORD_PROCESSOR_CHANGE INTERNAL_WORD_PROCESSOR  -  - QwertySimples ""
+20:42:49.734 "" KEY_DOWN_SHIFT_DIREITO KEY  -  - QwertySimples ""
+20:42:49.906 "" KEY_DOWN_E KEY  -  - QwertySimples ""
+20:42:49.921 "E" CHAR_E CHAR  -  - QwertySimples ""
+20:42:51.390 "" KEY_DOWN_S KEY  -  - QwertySimples "E"
+20:42:51.390 "s" CHAR_s CHAR  -  - QwertySimples "E"
+20:42:51.531 "" KEY_DOWN_T KEY  -  - QwertySimples "Es"
+20:42:51.531 "t" CHAR_t CHAR  -  - QwertySimples "Es"
+20:42:57.171 "" KEY_DOWN_F2 PREDICTED_WORD_SELECTION_1_este  -  - QwertySimples "Est"
+20:42:57.171 "" KEY_DOWN_F2 SYNTHESIZE_PREDICTED_WORD_FROM_LIST_AFTER_COMPLETATION_1_este  -  - QwertySimples "Est"
+20:42:57.187 "" KEY_DOWN_E AUTO_KEY  -  - QwertySimples "Est"
+20:42:57.187 "e" CHAR_e CHAR  -  - QwertySimples "Est"
+20:42:57.187 "" KEY_DOWN_BARRA_DE_ESPAÇOS AUTO_KEY  -  - QwertySimples "Este"
+20:42:57.187 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Este"
+20:42:57.187 "" NEW_WORD WORD_Este  -  - QwertySimples "Este "
+20:43:02.093 "" KEY_DOWN_F KEY  -  - QwertySimples "Este "
+20:43:02.109 "f" CHAR_f CHAR  -  - QwertySimples "Este "
+20:43:02.234 "" KEY_DOWN_I KEY  -  - QwertySimples "Este f"
+20:43:02.234 "i" CHAR_i CHAR  -  - QwertySimples "Este f"
+20:43:02.328 "" KEY_DOWN_C KEY  -  - QwertySimples "Este fi"
+20:43:02.328 "c" CHAR_c CHAR  -  - QwertySimples "Este fi"
+20:43:02.500 "" KEY_DOWN_H KEY  -  - QwertySimples "Este fic"
+20:43:02.500 "h" CHAR_h CHAR  -  - QwertySimples "Este fic"
+20:43:06.437 "" KEY_DOWN_E KEY  -  - QwertySimples "Este fich"
+20:43:06.437 "e" CHAR_e CHAR  -  - QwertySimples "Este fich"
+20:43:06.656 "" KEY_DOWN_I KEY  -  - QwertySimples "Este fiche"
+20:43:06.656 "i" CHAR_i CHAR  -  - QwertySimples "Este fiche"
+20:43:06.765 "" KEY_DOWN_R KEY  -  - QwertySimples "Este fichei"
+20:43:06.765 "r" CHAR_r CHAR  -  - QwertySimples "Este fichei"
+20:43:06.921 "" KEY_DOWN_O KEY  -  - QwertySimples "Este ficheir"
+20:43:06.921 "o" CHAR_o CHAR  -  - QwertySimples "Este ficheir"
+20:43:07.546 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Este ficheiro"
+20:43:07.546 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Este ficheiro"
+20:43:07.546 "" NEW_WORD WORD_ficheiro  -  - QwertySimples "Este ficheiro "
+20:43:10.328 "" KEY_DOWN_F KEY  -  - QwertySimples "Este ficheiro "
+20:43:10.328 "f" CHAR_f CHAR  -  - QwertySimples "Este ficheiro "
+20:43:10.921 "" KEY_DOWN_O KEY  -  - QwertySimples "Este ficheiro f"
+20:43:10.921 "o" CHAR_o CHAR  -  - QwertySimples "Este ficheiro f"
+20:43:13.953 "" KEY_DOWN_F1 PREDICTED_WORD_SELECTION_0_foi  -  - QwertySimples "Este ficheiro fo"
+20:43:13.953 "" KEY_DOWN_F1 SYNTHESIZE_PREDICTED_WORD_FROM_LIST_AFTER_COMPLETATION_0_foi  -  - QwertySimples "Este ficheiro fo"
+20:43:13.968 "" KEY_DOWN_I AUTO_KEY  -  - QwertySimples "Este ficheiro fo"
+20:43:13.968 "i" CHAR_i CHAR  -  - QwertySimples "Este ficheiro fo"
+20:43:13.968 "" KEY_DOWN_BARRA_DE_ESPAÇOS AUTO_KEY  -  - QwertySimples "Este ficheiro foi"
+20:43:13.968 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Este ficheiro foi"
+20:43:13.968 "" NEW_WORD WORD_foi  -  - QwertySimples "Este ficheiro foi "
+20:43:15.328 "" KEY_DOWN_P KEY  -  - QwertySimples "Este ficheiro foi "
+20:43:15.328 "p" CHAR_p CHAR  -  - QwertySimples "Este ficheiro foi "
+20:43:15.578 "" KEY_DOWN_R KEY  -  - QwertySimples "Este ficheiro foi p"
+20:43:15.578 "r" CHAR_r CHAR  -  - QwertySimples "Este ficheiro foi p"
+20:43:15.843 "" KEY_DOWN_O KEY  -  - QwertySimples "Este ficheiro foi pr"
+20:43:15.843 "o" CHAR_o CHAR  -  - QwertySimples "Este ficheiro foi pr"
+20:43:16.187 "" KEY_DOWN_D KEY  -  - QwertySimples "Este ficheiro foi pro"
+20:43:16.187 "d" CHAR_d CHAR  -  - QwertySimples "Este ficheiro foi pro"
+20:43:16.484 "" KEY_DOWN_U KEY  -  - QwertySimples "Este ficheiro foi prod"
+20:43:16.484 "u" CHAR_u CHAR  -  - QwertySimples "Este ficheiro foi prod"
+20:43:17.734 "" KEY_DOWN_Z KEY  -  - QwertySimples "Este ficheiro foi produ"
+20:43:17.734 "z" CHAR_z CHAR  -  - QwertySimples "Este ficheiro foi produ"
+20:43:18.578 "" KEY_DOWN_I KEY  -  - QwertySimples "Este ficheiro foi produz"
+20:43:18.578 "i" CHAR_i CHAR  -  - QwertySimples "Este ficheiro foi produz"
+20:43:22.609 "" KEY_DOWN_D KEY  -  - QwertySimples "Este ficheiro foi produzi"
+20:43:22.609 "d" CHAR_d CHAR  -  - QwertySimples "Este ficheiro foi produzi"
+20:43:22.750 "" KEY_DOWN_O KEY  -  - QwertySimples "Este ficheiro foi produzid"
+20:43:22.750 "o" CHAR_o CHAR  -  - QwertySimples "Este ficheiro foi produzid"
+20:43:22.921 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Este ficheiro foi produzido"
+20:43:22.937 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Este ficheiro foi produzido"
+20:43:22.937 "" NEW_WORD WORD_produzido  -  - QwertySimples "Este ficheiro foi produzido "
+20:43:23.343 "" KEY_DOWN_P KEY  -  - QwertySimples "Este ficheiro foi produzido "
+20:43:23.343 "p" CHAR_p CHAR  -  - QwertySimples "Este ficheiro foi produzido "
+20:43:23.609 "" KEY_DOWN_A KEY  -  - QwertySimples "Este ficheiro foi produzido p"
+20:43:23.609 "a" CHAR_a CHAR  -  - QwertySimples "Este ficheiro foi produzido p"
+20:43:24.328 "" KEY_DOWN_R KEY  -  - QwertySimples "Este ficheiro foi produzido pa"
+20:43:24.328 "r" CHAR_r CHAR  -  - QwertySimples "Este ficheiro foi produzido pa"
+20:43:24.671 "" KEY_DOWN_A KEY  -  - QwertySimples "Este ficheiro foi produzido par"
+20:43:24.671 "a" CHAR_a CHAR  -  - QwertySimples "Este ficheiro foi produzido par"
+20:43:24.843 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Este ficheiro foi produzido para"
+20:43:24.843 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Este ficheiro foi produzido para"
+20:43:24.843 "" NEW_WORD WORD_para  -  - QwertySimples "Este ficheiro foi produzido para "
+20:43:25.062 "" KEY_DOWN_O KEY  -  - QwertySimples "Este ficheiro foi produzido para "
+20:43:25.062 "o" CHAR_o CHAR  -  - QwertySimples "Este ficheiro foi produzido para "
+20:43:25.281 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Este ficheiro foi produzido para o"
+20:43:25.281 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Este ficheiro foi produzido para o"
+20:43:25.281 "" NEW_WORD WORD_o  -  - QwertySimples "Este ficheiro foi produzido para o "
+20:43:25.796 "" KEY_DOWN_T KEY  -  - QwertySimples "Este ficheiro foi produzido para o "
+20:43:25.796 "t" CHAR_t CHAR  -  - QwertySimples "Este ficheiro foi produzido para o "
+20:43:25.906 "" KEY_DOWN_E KEY  -  - QwertySimples "Este ficheiro foi produzido para o t"
+20:43:25.906 "e" CHAR_e CHAR  -  - QwertySimples "Este ficheiro foi produzido para o t"
+20:43:26.062 "" KEY_DOWN_S KEY  -  - QwertySimples "Este ficheiro foi produzido para o te"
+20:43:26.062 "s" CHAR_s CHAR  -  - QwertySimples "Este ficheiro foi produzido para o te"
+20:43:26.234 "" KEY_DOWN_T KEY  -  - QwertySimples "Este ficheiro foi produzido para o tes"
+20:43:26.234 "t" CHAR_t CHAR  -  - QwertySimples "Este ficheiro foi produzido para o tes"
+20:43:26.625 "" KEY_DOWN_E KEY  -  - QwertySimples "Este ficheiro foi produzido para o test"
+20:43:26.625 "e" CHAR_e CHAR  -  - QwertySimples "Este ficheiro foi produzido para o test"
+20:43:26.953 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste"
+20:43:26.953 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste"
+20:43:26.953 "" NEW_WORD WORD_teste  -  - QwertySimples "Este ficheiro foi produzido para o teste "
+20:43:27.156 "" KEY_DOWN_D KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste "
+20:43:27.156 "d" CHAR_d CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste "
+20:43:27.328 "" KEY_DOWN_E KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste d"
+20:43:27.343 "e" CHAR_e CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste d"
+20:43:27.750 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de"
+20:43:27.750 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de"
+20:43:27.750 "" NEW_WORD WORD_de  -  - QwertySimples "Este ficheiro foi produzido para o teste de "
+20:43:29.843 "" KEY_DOWN_S KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de "
+20:43:29.843 "s" CHAR_s CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de "
+20:43:30.062 "" KEY_DOWN_I KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de s"
+20:43:30.062 "i" CHAR_i CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de s"
+20:43:30.171 "" KEY_DOWN_S KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de si"
+20:43:30.171 "s" CHAR_s CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de si"
+20:43:32.921 "" KEY_DOWN_F1 PREDICTED_WORD_SELECTION_0_sistemas  -  - QwertySimples "Este ficheiro foi produzido para o teste de sis"
+20:43:32.921 "" KEY_DOWN_F1 SYNTHESIZE_PREDICTED_WORD_FROM_LIST_AFTER_COMPLETATION_0_sistemas  -  - QwertySimples "Este ficheiro foi produzido para o teste de sis"
+20:43:32.953 "" KEY_DOWN_T AUTO_KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sis"
+20:43:32.953 "t" CHAR_t CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sis"
+20:43:32.953 "" KEY_DOWN_E AUTO_KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sist"
+20:43:32.953 "e" CHAR_e CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sist"
+20:43:32.953 "" KEY_DOWN_M AUTO_KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de siste"
+20:43:32.953 "m" CHAR_m CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de siste"
+20:43:32.953 "" KEY_DOWN_A AUTO_KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistem"
+20:43:32.953 "a" CHAR_a CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistem"
+20:43:32.953 "" KEY_DOWN_S AUTO_KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistema"
+20:43:32.953 "s" CHAR_s CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistema"
+20:43:32.953 "" KEY_DOWN_BARRA_DE_ESPAÇOS AUTO_KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas"
+20:43:32.953 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas"
+20:43:32.953 "" NEW_WORD WORD_sistemas  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas "
+20:43:35.265 "" KEY_DOWN_O KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas "
+20:43:35.265 "o" CHAR_o CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas "
+20:43:35.875 "" KEY_DOWN_P KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas o"
+20:43:35.875 "p" CHAR_p CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas o"
+20:43:36.156 "" KEY_DOWN_E KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas op"
+20:43:36.156 "e" CHAR_e CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas op"
+20:43:36.375 "" KEY_DOWN_R KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas ope"
+20:43:36.375 "r" CHAR_r CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas ope"
+20:43:36.531 "" KEY_DOWN_A KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas oper"
+20:43:36.531 "a" CHAR_a CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas oper"
+20:43:36.640 "" KEY_DOWN_T KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas opera"
+20:43:36.640 "t" CHAR_t CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas opera"
+20:43:37.359 "" KEY_DOWN_I KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operat"
+20:43:37.359 "i" CHAR_i CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operat"
+20:43:37.656 "" KEY_DOWN_V KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operati"
+20:43:37.656 "v" CHAR_v CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operati"
+20:43:37.828 "" KEY_DOWN_O KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operativ"
+20:43:37.828 "o" CHAR_o CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operativ"
+20:43:37.984 "" KEY_DOWN_S KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operativo"
+20:43:37.984 "s" CHAR_s CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operativo"
+20:43:38.953 "" KEY_DOWN_. KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operativos"
+20:43:38.953 "." CHAR_. CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operativos"
+20:43:38.953 "" NEW_WORD WORD_operativos  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operativos."
+20:43:38.968 "" NEW_SENTENCE SENTENCE_Este_ficheiro_foi_produzido_para_o_teste_de_sistemas_operativos.  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operativos."
+20:43:40.015 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operativos."
+20:43:40.015 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Este ficheiro foi produzido para o teste de sistemas operativos."
+20:43:41.609 "" KEY_DOWN_SHIFT_DIREITO KEY  -  - QwertySimples ""
+20:43:41.703 "" KEY_DOWN_T KEY  -  - QwertySimples ""
+20:43:41.703 "T" CHAR_T CHAR  -  - QwertySimples ""
+20:43:41.953 "" KEY_DOWN_R KEY  -  - QwertySimples "T"
+20:43:41.953 "r" CHAR_r CHAR  -  - QwertySimples "T"
+20:43:42.296 "" KEY_DOWN_A KEY  -  - QwertySimples "Tr"
+20:43:42.296 "a" CHAR_a CHAR  -  - QwertySimples "Tr"
+20:43:42.781 "" KEY_DOWN_T KEY  -  - QwertySimples "Tra"
+20:43:42.781 "t" CHAR_t CHAR  -  - QwertySimples "Tra"
+20:43:42.906 "" KEY_DOWN_A KEY  -  - QwertySimples "Trat"
+20:43:42.906 "a" CHAR_a CHAR  -  - QwertySimples "Trat"
+20:43:43.640 "" KEY_DOWN_- KEY  -  - QwertySimples "Trata"
+20:43:43.640 "-" CHAR_- CHAR  -  - QwertySimples "Trata"
+20:43:43.781 "" KEY_DOWN_S KEY  -  - QwertySimples "Trata-"
+20:43:43.781 "s" CHAR_s CHAR  -  - QwertySimples "Trata-"
+20:43:43.984 "" KEY_DOWN_E KEY  -  - QwertySimples "Trata-s"
+20:43:43.984 "e" CHAR_e CHAR  -  - QwertySimples "Trata-s"
+20:43:44.468 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Trata-se"
+20:43:44.468 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Trata-se"
+20:43:44.468 "" NEW_WORD WORD_Trata-se  -  - QwertySimples "Trata-se "
+20:43:44.718 "" KEY_DOWN_D KEY  -  - QwertySimples "Trata-se "
+20:43:44.718 "d" CHAR_d CHAR  -  - QwertySimples "Trata-se "
+20:43:44.890 "" KEY_DOWN_E KEY  -  - QwertySimples "Trata-se d"
+20:43:44.890 "e" CHAR_e CHAR  -  - QwertySimples "Trata-se d"
+20:43:44.968 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Trata-se de"
+20:43:44.968 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Trata-se de"
+20:43:44.968 "" NEW_WORD WORD_de  -  - QwertySimples "Trata-se de "
+20:43:45.171 "" KEY_DOWN_U KEY  -  - QwertySimples "Trata-se de "
+20:43:45.171 "u" CHAR_u CHAR  -  - QwertySimples "Trata-se de "
+20:43:45.406 "" KEY_DOWN_M KEY  -  - QwertySimples "Trata-se de u"
+20:43:45.406 "m" CHAR_m CHAR  -  - QwertySimples "Trata-se de u"
+20:43:45.515 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Trata-se de um"
+20:43:45.515 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Trata-se de um"
+20:43:45.515 "" NEW_WORD WORD_um  -  - QwertySimples "Trata-se de um "
+20:43:45.921 "" KEY_DOWN_F KEY  -  - QwertySimples "Trata-se de um "
+20:43:45.921 "f" CHAR_f CHAR  -  - QwertySimples "Trata-se de um "
+20:43:46.046 "" KEY_DOWN_I KEY  -  - QwertySimples "Trata-se de um f"
+20:43:46.046 "i" CHAR_i CHAR  -  - QwertySimples "Trata-se de um f"
+20:43:46.156 "" KEY_DOWN_C KEY  -  - QwertySimples "Trata-se de um fi"
+20:43:46.156 "c" CHAR_c CHAR  -  - QwertySimples "Trata-se de um fi"
+20:43:46.265 "" KEY_DOWN_H KEY  -  - QwertySimples "Trata-se de um fic"
+20:43:46.265 "h" CHAR_h CHAR  -  - QwertySimples "Trata-se de um fic"
+20:43:49.625 "" KEY_DOWN_F1 PREDICTED_WORD_SELECTION_0_ficheiro  -  - QwertySimples "Trata-se de um fich"
+20:43:49.625 "" KEY_DOWN_F1 SYNTHESIZE_PREDICTED_WORD_FROM_LIST_AFTER_COMPLETATION_0_ficheiro  -  - QwertySimples "Trata-se de um fich"
+20:43:49.640 "" KEY_DOWN_E AUTO_KEY  -  - QwertySimples "Trata-se de um fich"
+20:43:49.640 "e" CHAR_e CHAR  -  - QwertySimples "Trata-se de um fich"
+20:43:49.640 "" KEY_DOWN_I AUTO_KEY  -  - QwertySimples "Trata-se de um fiche"
+20:43:49.640 "i" CHAR_i CHAR  -  - QwertySimples "Trata-se de um fiche"
+20:43:49.640 "" KEY_DOWN_R AUTO_KEY  -  - QwertySimples "Trata-se de um fichei"
+20:43:49.640 "r" CHAR_r CHAR  -  - QwertySimples "Trata-se de um fichei"
+20:43:49.640 "" KEY_DOWN_O AUTO_KEY  -  - QwertySimples "Trata-se de um ficheir"
+20:43:49.640 "o" CHAR_o CHAR  -  - QwertySimples "Trata-se de um ficheir"
+20:43:49.656 "" KEY_DOWN_BARRA_DE_ESPAÇOS AUTO_KEY  -  - QwertySimples "Trata-se de um ficheiro"
+20:43:49.656 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Trata-se de um ficheiro"
+20:43:49.656 "" NEW_WORD WORD_ficheiro  -  - QwertySimples "Trata-se de um ficheiro "
+20:43:50.812 "" KEY_DOWN_D KEY  -  - QwertySimples "Trata-se de um ficheiro "
+20:43:50.812 "d" CHAR_d CHAR  -  - QwertySimples "Trata-se de um ficheiro "
+20:43:51.093 "" KEY_DOWN_E KEY  -  - QwertySimples "Trata-se de um ficheiro d"
+20:43:51.093 "e" CHAR_e CHAR  -  - QwertySimples "Trata-se de um ficheiro d"
+20:43:51.484 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Trata-se de um ficheiro de"
+20:43:51.484 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Trata-se de um ficheiro de"
+20:43:51.484 "" NEW_WORD WORD_de  -  - QwertySimples "Trata-se de um ficheiro de "
+20:43:51.656 "" KEY_DOWN_L KEY  -  - QwertySimples "Trata-se de um ficheiro de "
+20:43:51.656 "l" CHAR_l CHAR  -  - QwertySimples "Trata-se de um ficheiro de "
+20:43:51.968 "" KEY_DOWN_O KEY  -  - QwertySimples "Trata-se de um ficheiro de l"
+20:43:51.968 "o" CHAR_o CHAR  -  - QwertySimples "Trata-se de um ficheiro de l"
+20:43:52.140 "" KEY_DOWN_G KEY  -  - QwertySimples "Trata-se de um ficheiro de lo"
+20:43:52.140 "g" CHAR_g CHAR  -  - QwertySimples "Trata-se de um ficheiro de lo"
+20:43:53.671 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Trata-se de um ficheiro de log"
+20:43:53.671 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Trata-se de um ficheiro de log"
+20:43:53.671 "" NEW_WORD WORD_log  -  - QwertySimples "Trata-se de um ficheiro de log "
+20:43:53.906 "" KEY_DOWN_D KEY  -  - QwertySimples "Trata-se de um ficheiro de log "
+20:43:53.906 "d" CHAR_d CHAR  -  - QwertySimples "Trata-se de um ficheiro de log "
+20:43:54.078 "" KEY_DOWN_O KEY  -  - QwertySimples "Trata-se de um ficheiro de log d"
+20:43:54.078 "o" CHAR_o CHAR  -  - QwertySimples "Trata-se de um ficheiro de log d"
+20:43:54.250 "" KEY_DOWN_BARRA_DE_ESPAÇOS KEY  -  - QwertySimples "Trata-se de um ficheiro de log do"
+20:43:54.250 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do"
+20:43:54.250 "" NEW_WORD WORD_do  -  - QwertySimples "Trata-se de um ficheiro de log do "
+20:43:54.750 "" KEY_DOWN_S KEY  -  - QwertySimples "Trata-se de um ficheiro de log do "
+20:43:54.750 "s" CHAR_s CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do "
+20:43:54.890 "" KEY_DOWN_I KEY  -  - QwertySimples "Trata-se de um ficheiro de log do s"
+20:43:54.890 "i" CHAR_i CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do s"
+20:43:55.000 "" KEY_DOWN_S KEY  -  - QwertySimples "Trata-se de um ficheiro de log do si"
+20:43:55.000 "s" CHAR_s CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do si"
+20:43:55.218 "" KEY_DOWN_T KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sis"
+20:43:55.218 "t" CHAR_t CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sis"
+20:43:58.515 "" KEY_DOWN_F2 PREDICTED_WORD_SELECTION_1_sistema  -  - QwertySimples "Trata-se de um ficheiro de log do sist"
+20:43:58.515 "" KEY_DOWN_F2 SYNTHESIZE_PREDICTED_WORD_FROM_LIST_AFTER_COMPLETATION_1_sistema  -  - QwertySimples "Trata-se de um ficheiro de log do sist"
+20:43:58.531 "" KEY_DOWN_E AUTO_KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sist"
+20:43:58.531 "e" CHAR_e CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sist"
+20:43:58.531 "" KEY_DOWN_M AUTO_KEY  -  - QwertySimples "Trata-se de um ficheiro de log do siste"
+20:43:58.531 "m" CHAR_m CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do siste"
+20:43:58.531 "" KEY_DOWN_A AUTO_KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistem"
+20:43:58.531 "a" CHAR_a CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistem"
+20:43:58.531 "" KEY_DOWN_BARRA_DE_ESPAÇOS AUTO_KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema"
+20:43:58.531 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistema"
+20:43:58.531 "" NEW_WORD WORD_sistema  -  - QwertySimples "Trata-se de um ficheiro de log do sistema "
+20:44:00.984 "" KEY_DOWN_SHIFT_DIREITO KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema "
+20:44:01.187 "" KEY_DOWN_E KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema "
+20:44:01.187 "E" CHAR_E CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistema "
+20:44:01.515 "" KEY_DOWN_U KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema E"
+20:44:01.515 "u" CHAR_u CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistema E"
+20:44:01.703 "" KEY_DOWN_G KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eu"
+20:44:01.703 "g" CHAR_g CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eu"
+20:44:02.312 "" KEY_DOWN_AGUDO KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eug"
+20:44:02.484 "" KEY_DOWN_E KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eug"
+20:44:02.484 "é" CHAR_é CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eug"
+20:44:07.359 "" KEY_DOWN_F2 PREDICTED_WORD_SELECTION_1_eugénio  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugé"
+20:44:07.359 "" KEY_DOWN_F2 SYNTHESIZE_PREDICTED_WORD_FROM_LIST_AFTER_COMPLETATION_1_eugénio  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugé"
+20:44:07.375 "" KEY_DOWN_N AUTO_KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugé"
+20:44:07.375 "n" CHAR_n CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugé"
+20:44:07.375 "" KEY_DOWN_I AUTO_KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugén"
+20:44:07.375 "i" CHAR_i CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugén"
+20:44:07.375 "" KEY_DOWN_O AUTO_KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugéni"
+20:44:07.375 "o" CHAR_o CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugéni"
+20:44:07.375 "" KEY_DOWN_BARRA_DE_ESPAÇOS AUTO_KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugénio"
+20:44:07.375 " " CHAR_ESPAÇO CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugénio"
+20:44:07.375 "" NEW_WORD WORD_Eugénio  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugénio "
+20:44:08.359 "" KEY_DOWN_BACKSPACE KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugénio "
+20:44:08.359 "\b" CHAR_RETROCESSO CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugénio "
+20:44:09.328 "" KEY_DOWN_. KEY  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugénio"
+20:44:09.328 "." CHAR_. CHAR  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugénio"
+20:44:09.343 "" NEW_SENTENCE SENTENCE_Trata-se_de_um_ficheiro_de_log_do_sistema_Eugénio.  -  - QwertySimples "Trata-se de um ficheiro de log do sistema Eugénio."
+$$$ End Body
+
+Tempo_Total_Escrita 118
+Tempo_Efectivo_Escrita 90
+Numero_Teclas_Pressionadas 104
+Numero_Teclas_Sistema 23
+Numero_Total_Teclas 127
+Numero_Teclas_Ecra_Pressionadas 0
+Numero_Activacoes_Manipulos 0
+Numero_Teclas_Texto_Teclado_Qwerty 119
+Teclas_Poupadas_Comparacao_Escrita_Teclado_Qwerty 12.605042
+Teclas_Ecra_Poupadas_Comparacao_Escrita_Teclado_Qwerty 100.000000
+Activacoes_Manipulo_Poupadas_Comparacao_Escrita_Teclado_Qwerty 100.000000
+Numero_Caracteres_Escritos 117
+Numero_Palavras_Escritas 19
+Numero_Frases_Escritas 2
+Numero_Caracteres_Finais 115
+Numero_Palavras_Finais 19
+Numero_Frases_Finais 2
+Numero_Cliques 3
+Numero_Simbolos_Simples_Seleccionados 0
+Numero_Simbolos_Compostos_Seleccionados 0
+Numero_Simbolos_Simples_Escritos 0
+Numero_Simbolos_Compostos_Escritos 0
+Numero_Simbolos_Finais 0
+Numero_Alteracoes_Teclado_Ecran_Atraves_Menu 0
+Numero_Alteracoes_Teclado_Ecran_Atraves_Teclado_Ecran 0
+Numero_Envios_Comunicacao_Cooperativa 0
+Numero_Sugestoes_Palavras 0
+Numero_Sugestoes_Frases 0
+Numero_Sugestoes_Simbolos_Simples 0
+Numero_Sugestoes_Simbolos_Multiplos 0
+Numero_Abreviaturas_Expandidas 0
+Numero_Predicoes 30
+Numero_Palavras_Completadas 6
+Posicao_Media_Palavras_Lista 0.500000
+Numero_Medio_Caracteres_Completar_Palavras 3.333333
+Numero_Palavras_Completadas_A_Partir_Simbolos_Simples 0
+Posicao_Media_Simbolos_Simples_Com_Palavra_Lista -
+Numero_Medio_Caracteres_Completar_Palavras_A_Partir_Simbolos_Simples -
+Numero_Palavras_Completadas_A_Partir_Simbolos_Compostos 0
+Posicao_Media_Simbolos_Compostos_Com_Palavra_Lista -
+Numero_Medio_Caracteres_Completar_Palavras_A_Partir_Simbolos_Compostos -
+Numero_Sequencias_Palavras_Completadas 0
+Posicao_Media_Sequencias_Palavras_Lista -
+Numero_Medio_Caracteres_Completar_Sequencia_Palavras -
+Numero_Sequencias_Palavras_Completadas_A_Partir_Simbolos_Simples 0
+Posicao_Media_Simbolos_Simples_Com_Sequencia_Palavras_Lista -
+Numero_Medio_Caracteres_Completar_Sequencia_Palavras_A_Partir_Simbolos_Simples -
+Numero_Sequencias_Palavras_Completadas_A_Partir_Simbolos_Compostos 0
+Posicao_Media_Simbolos_Compostos_Com_Sequencia_Palavra_Lista -
+Numero_Medio_Caracteres_Completar_Sequencia_Palavras_A_Partir_Simbolos_Compostos -
+Numero_Frases_Completadas 0
+Posicao_Media_Frases_Lista -
+Numero_Medio_Caracteres_Completar_Frases -
+Numero_Frases_Completadas_A_Partir_Simbolos_Simples 0
+Posicao_Media_Simbolos_Simples_Com_Frase_Lista -
+Numero_Medio_Caracteres_Completar_Frases_A_Partir_Simbolos_Simples -
+Numero_Frases_Completadas_A_Partir_Simbolos_Compostos 0
+Posicao_Media_Simbolos_Compostos_Com_Frase_Lista -
+Numero_Medio_Caracteres_Completar_Frases_A_Partir_Simbolos_Compostos -
+Numero_Simbolos_Simples_Preditos_Seleccionados 0
+Posicao_Media_Simbolos_Simples_Lista -
+Numero_Simbolos_Compostos_Preditos_Seleccionados 0
+Posicao_Media_Simbolos_Compostos_Lista -
+Numero_Caracteres_Simbolos_Apagados 1
+Palavras_Sintetizadas 0
+Frases_Sintetizadas 0
+Simbolos_Sintetizados 0
+Total_Palavras_Sintetizadas 0
